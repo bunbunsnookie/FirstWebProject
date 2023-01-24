@@ -1,0 +1,52 @@
+.body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(powderblue, beige);
+}
+
+.block{
+    min-width: 400px;
+    max-width: 600px;
+    min-height: 400px;
+    max-height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+
+.btn_auth{
+    padding: 10px;
+    margin: 10px;
+    outline: 0;
+    border-radius: 10px;
+    background-color: lightblue;
+    color: whitesmoke;
+}
+
+.login{
+    flex-direction: column;
+    display: flex;
+    margin-right: 10vh;
+    margin-left: 10vh;
+    min-width: 450px;
+}
+
+.inp{
+    padding: 10px;
+    margin: 10px;
+    outline: 0;
+    border-radius: 10px;
+}
+
+.h1_log{
+    color: lightblue;
+}
+
+.reg{
+    padding: 8px;
+    color: lightblue;
+}

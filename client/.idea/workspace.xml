@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d0debbb-b193-46f7-8ddb-63d0c336eeb5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Auth.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Home.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Login.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Meetings.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Meetings.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questionnaire.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questionnaire.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Register.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums/RoleType.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/AuthInfo.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/AuthInput.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repositories/AuthRepository.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repositories/QuestionnaireRepository.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repositories/UsersRepository.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Home.tsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Meetings.tsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Questionnaire.css" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Questionnaire.tsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/contexts/AuthContext.tsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/objects/AuthInput.tsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/repositories/AuthRepository.tsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/repositories/QuestionnaireRepository.tsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/repositories/Repository.tsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/repositories/UsersRepository.tsx" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GFDPv2XpbS8Bi7td30LyWwKFqt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/kursach&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\Muffin\\source\\repos\\WebApplication1\\client\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d0debbb-b193-46f7-8ddb-63d0c336eeb5" name="Changes" comment="" />
+      <created>1665975418150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665975418150</updated>
+      <workItem from="1665975420526" duration="300000" />
+      <workItem from="1666522720591" duration="5823000" />
+      <workItem from="1666576180081" duration="4387000" />
+      <workItem from="1667786522116" duration="3610000" />
+      <workItem from="1669600585019" duration="1113000" />
+      <workItem from="1669602038342" duration="882000" />
+      <workItem from="1669604047352" duration="769000" />
+      <workItem from="1671710117611" duration="72000" />
+      <workItem from="1673182650714" duration="6965000" />
+      <workItem from="1673243891008" duration="10730000" />
+      <workItem from="1673266580657" duration="3051000" />
+      <workItem from="1673349961831" duration="9346000" />
+      <workItem from="1673690003722" duration="11373000" />
+      <workItem from="1673745373935" duration="2811000" />
+      <workItem from="1673783816158" duration="1684000" />
+      <workItem from="1674120928998" duration="608000" />
+      <workItem from="1674130196084" duration="1399000" />
+      <workItem from="1674369727202" duration="5342000" />
+      <workItem from="1674393887902" duration="4000" />
+      <workItem from="1674427791335" duration="6360000" />
+      <workItem from="1674467824123" duration="5216000" />
+      <workItem from="1674516843266" duration="921000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
